@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Chandima Nawagamuwa
+- 👋 Hi, I’m Nawagamuwa
 - 👀 I’m interested in coding, testing, baking, traveling, reading, watching movies
 -  🌱 I’m currently working at Vocational Training Authority as a Lecturer.
 - 💞️ I’m looking to collaborate on software development.
-- 📫 How to reach me : Tel:- 0718747090, e-mail:-nawagamuwa88@gmail.com
+- 📫 How to reach me : e-mail:-nawagamuwa88@gmail.com
 - ⚡ Fun fact: Singing, Friendly
 
 <!---
